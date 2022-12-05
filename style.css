@@ -1,0 +1,193 @@
+@charset "utf-8";
+
+h1 {text-align: center}
+h2 {text-align: center}
+h3 {text-align: center}
+p {
+    text-align: center;
+}
+span.sisetu {
+    color:#36a;
+    display:block;
+    text-align: center;
+}
+
+.disp-img{
+    background-image: url(../picture/travels.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:500px;
+    background-position: center;
+}
+.yokuzilyou{
+    background-image: url(../picture/yokuzilyou.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:200px;
+    background-position: center;
+}
+.sentakuki{
+    background-image: url(../picture/sentakuki.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:200px;
+    background-size:300px;
+    background-position: center;
+}
+.silyokujidokoro{
+    background-image: url(../picture/silyokujidokoro.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:200px;
+    background-position: center; 
+}
+.kilyukei {
+    background-image: url(../picture/kilyuukei.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:200px;
+    background-position: center;
+}
+.kilyuukei {
+    background-image: url(../picture/kilyuukei.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:300px;
+    background-size: 400px;
+    background-position: center;
+}
+.kilyakusitu {
+    background-image: url(../picture/kilyakusitu.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:200px;
+    background-position: center;
+}
+.ohuro {
+    background-image: url(../picture/ohuro.webp);
+    background-repeat: no-repeat;
+    width:auto;
+    height:400px;
+    background-size:600px;
+    background-position: center;
+}
+.sukiyaki {
+    background-image: url(../picture/sukiyaki.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:400px;
+    background-size:400px;
+    background-position: center;
+}
+.breakfast {
+    background-image: url(../picture/breakfast.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:400px;
+    background-size:400px;
+    background-position: center;
+}
+.sasimi {
+    background-image: url(../picture/sasimi.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:400px;
+    background-size:400px;
+    background-position: center;
+}
+.silyokuzipict {
+    background-image: url(../picture/silyokujidokoro.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:500px;
+    background-size:600px;
+    background-position: center;
+}
+.silyokuzibackground {
+    background-image: url(../picture/orangeback.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:50px;
+    background-size:5000px;
+    background-position: center;
+}
+.bluebackground {
+    background-image: url(../picture/blueback.png);
+    background-repeat: no-repeat;
+    width:auto;
+    height:50px;
+    background-size:5000px;
+    background-position: center;
+}
+.background {
+    background-image: url(../picture/background.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:2800px;
+    background-size:5000px;
+    background-position: center;
+}
+.oyasumiback {
+    background-image: url(../picture/background.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:800px;
+    background-size:5000px;
+    background-position: center;
+}
+.ohuroback {
+    background-image: url(../picture/background.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:800px;
+    background-size:5000px;
+    background-position: center;
+}
+.silyokuback {
+    background-image: url(../picture/background.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:2200px;
+    background-size:5000px;
+    background-position: center;
+}
+.oheya {
+    background-image: url(../picture/kilyakusitu.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:300px;
+    background-size:400px;
+    background-position: center;
+}
+.oheyaback {
+    background-image: url(../picture/background.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:800px;
+    background-size:5000px;
+    background-position: center;
+}
+.senntakuki {
+    background-image: url(../picture/sentakuki.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:300px;
+    background-size:400px;
+    background-position: center;
+}
+.sentakukiback {
+    background-image: url(../picture/background.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:720px;
+    background-size:3500px;
+    background-position: center;
+}
+.yoyakuback {
+    background-image: url(../picture/background.jpg);
+    background-repeat: no-repeat;
+    width:auto;
+    height:720px;
+    background-size:3500px;
+    background-position: center;
+}
